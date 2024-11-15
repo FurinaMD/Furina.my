@@ -28,7 +28,7 @@ Ni di bawah ini tinggal salin aja Credit nya jangan di hapus
 
 ------
 
-### Al Dev Store
+### Al Dev Menyediakan 
 - Panel
 - Vps
 - Sc Furina
