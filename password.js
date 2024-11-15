@@ -1,1 +1,0 @@
-["Ayaka", "Doni", "Alpian"]
