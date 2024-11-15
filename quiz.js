@@ -1,1 +1,0 @@
-["Kamu", "kamu", "Aku", "aku", "Saya", "saya"]
