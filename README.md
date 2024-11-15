@@ -18,7 +18,13 @@ Ni di bawah ini tinggal salin aja Credit nya jangan di hapus
   <a href="https://github.com/FurinaMD"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=FurinaMD&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=FurinaMD&" alt="FurinaMD" /></p>
+<p align="center"> <img src="https://avatars.githubusercontent.com/FurinaMD" alt="FurinaMD" /></p>
+
+<p align='center'>
+  <a href="https://wa.me/6289531639634"><img height="30" src="https://telegra.ph/file/74e742d63924a4b4cd625.jpg"></a>
+  <a href="https://bit.ly/Furina-Aldev"><img height="30" src="https://telegra.ph/file/e060e09151c3e49652078.jpg"</a>
+  <a href="https://instagram.com/al_dev_1"><img height="30" src="https://pomf2.lain.la/f/7phmbi14.jpg"></a>
+</p>
 
 ------
 
@@ -33,13 +39,9 @@ Ni di bawah ini tinggal salin aja Credit nya jangan di hapus
 - Dana
 - Ovo
 - Gopay
-  
-<p align='center'>
-  <a href="https://wa.me/6289531639634"><img height="30" src="https://telegra.ph/file/74e742d63924a4b4cd625.jpg"></a>
-  <a href="https://bit.ly/Furina-Aldev"><img height="30" src="https://telegra.ph/file/e060e09151c3e49652078.jpg"</a>
-  <a href="https://instagram.com/al_dev_1"><img height="30" src="https://pomf2.lain.la/f/7phmbi14.jpg"></a>
-</p>
-
+      
+------
+      
 # Sc Free
 Hallo Saya Adalah Owner Furina
 Saya Mau Berbagi Sc Bot WhatsApp
